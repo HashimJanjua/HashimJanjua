@@ -1,4 +1,6 @@
-### Hi there 👋
+### About me 
+
+I am a fullstack web developer proficient in Ruby on Rails, JavaScript and HTML/CSS.  
 
 <!--
 **HashimJanjua/HashimJanjua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
